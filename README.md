@@ -8,3 +8,4 @@ completed JS exercise 5.
 "JS lab practice - arrays and functions".
 completed JS exercise 6.
 started python on freecodeCamp today
+python complted first exercise
