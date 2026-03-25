@@ -9,6 +9,7 @@ Learning web development | Frontend projects | Responsive Web Design certified
 - **March 21:** Completed JS exercise 6
 - **March 22:** Started Python on freeCodeCamp
 - **March 24:** Python — completed first exercise
+  - **March 25:** Built Employee Profile Generator — workshop project
 ## Current Focus 🎯
 - Language: Python (freeCodeCamp)
 
