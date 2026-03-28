@@ -12,6 +12,7 @@ Learning web development | Frontend projects | Responsive Web Design certified
   - **March 25:** Built Employee Profile Generator — workshop project
   - **March 26:**learn boolean and conditionals in python on freecodeCamp
   - **March 27:** Built in bill spillter-worshop complted
+  - **March 28:**complted theory of Booleans and Conditionals.
 ## Current Focus 🎯
 - Language: Python (freeCodeCamp)
 
