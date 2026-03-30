@@ -14,6 +14,8 @@ Learning web development | Frontend projects | Responsive Web Design certified
   - **March 27:** Built in bill spillter-worshop complted
   - **March 28:**complted theory of Booleans and Conditionals.
   - **March 29:Built movie ticket booking calculator- workshop complted.
+   - **March 30:** Built Simple Calculator in Python 
+using variables, input & if/else — first laptop project! 🐍
 ## Current Focus 🎯
 - Language: Python (freeCodeCamp)
 
