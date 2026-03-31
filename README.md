@@ -16,6 +16,7 @@ Learning web development | Frontend projects | Responsive Web Design certified
   - **March 29:Built movie ticket booking calculator- workshop complted.
    - **March 30:** Built Simple Calculator in Python 
 using variables, input & if/else — first laptop project! 🐍
+-**March 31:**Built in Travel Weather Planner lab complted
 ## Current Focus 🎯
 - Language: Python (freeCodeCamp)
 
