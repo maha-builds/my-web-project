@@ -18,7 +18,8 @@ Learning web development | Frontend projects | Responsive Web Design certified
 using variables, input & if/else — first laptop project! 🐍.
 
 -**March 31:**Built in Travel Weather Planner lab complted.
-_**April 1:**start to solve the probelm in GeeksforGeeks.
+_ **April 1:**start to solve the probelm in GeeksforGeeks.
+_ **April 2: ** Today solve two problems in GeeksforGeeks.
 ## Current Focus 🎯
 - Language: Python (freeCodeCamp)
 
