@@ -9,17 +9,16 @@ Learning web development | Frontend projects | Responsive Web Design certified
 - **March 21:** Completed JS exercise 6
 - **March 22:** Started Python on freeCodeCamp
 - **March 24:** Python — completed first exercise
-  - **March 25:** Built Employee Profile Generator — workshop project
-  - **March 26:**learn boolean and conditionals in python on freecodeCamp
-  - **March 27:** Built in bill spillter-worshop complted
-  - **March 28:**complted theory of Booleans and Conditionals.
-  - **March 29:Built movie ticket booking calculator- workshop complted.
-   - **March 30:** Built Simple Calculator in Python 
-using variables, input & if/else — first laptop project! 🐍.
-
--**March 31:**Built in Travel Weather Planner lab complted.
-_ **April 1:**start to solve the probelm in GeeksforGeeks.
-_ **April 2: ** Today solve two problems in GeeksforGeeks.
+  - **March 25:** Built Employee Profile Generator — workshop project.
+   - **March 26:** Learned booleans and conditionals in Python on freeCodeCamp
+- **March 27:** Built bill splitter — workshop completed
+- **March 28:** Completed theory of Booleans and Conditionals
+- **March 29:** Built movie ticket booking calculator — workshop completed
+- **March 30:** Built Simple Calculator in Python using variables, input & if/else — first laptop project! 🦎
+- **March 31:** Built Travel Weather Planner lab — completed
+- **April 1:** Started solving problems on GeeksforGeeks
+- **April 2:** Solved two problems on GeeksforGeeks 
+    
 ## Current Focus 🎯
 - Language: Python (freeCodeCamp)
 
