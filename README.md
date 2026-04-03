@@ -18,7 +18,7 @@ Learning web development | Frontend projects | Responsive Web Design certified
 - **March 31:** Built Travel Weather Planner lab — completed
 - **April 1:** Started solving problems on GeeksforGeeks
 - **April 2:** Solved two problems on GeeksforGeeks 
-    
+- **April 3:** Buit a RPG Character-Workshop completed.  
 ## Current Focus 🎯
 - Language: Python (freeCodeCamp)
 
