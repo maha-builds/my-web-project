@@ -21,6 +21,7 @@ Learning web development | Frontend projects | Responsive Web Design certified
 - **April 3:** Buit a RPG Character-Workshop completed.
 - **April 4:** working loops and sequence theory complted.
 - **April 5:** Build a pin Extractor-Workshop is complted.
+- **April 6:** solve two probelm in geeksforgeeks.
 ## Current Focus 🎯
 - Language: Python (freeCodeCamp)
 
