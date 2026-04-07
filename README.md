@@ -22,6 +22,7 @@ Learning web development | Frontend projects | Responsive Web Design certified
 - **April 4:** working loops and sequence theory complted.
 - **April 5:** Build a pin Extractor-Workshop is complted.
 - **April 6:** solve two probelm in geeksforgeeks.
+- **April 7:** Build a number pattern genarator-lab.
 ## Current Focus 🎯
 - Language: Python (freeCodeCamp)
 
