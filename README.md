@@ -24,6 +24,7 @@ Learning web development | Frontend projects | Responsive Web Design certified
 - **April 6:** solve two probelm in geeksforgeeks.
 - **April 7:** Build a number pattern genarator-lab.
 - **April 9:** Dictionary and Sets theory learn.
+- **Aptil 10:**Build a Medical data validation workshop start to workout.
 ## Current Focus 🎯
 - Language: Python (freeCodeCamp)
 
