@@ -24,7 +24,8 @@ Learning web development | Frontend projects | Responsive Web Design certified
 - **April 6:** solve two probelm in geeksforgeeks.
 - **April 7:** Build a number pattern genarator-lab.
 - **April 9:** Dictionary and Sets theory learn.
-- **Aptil 10:**Build a Medical data validation workshop start to workout.
+- **April 10:**Build a Medical data validation workshop start to workout.
+-  **April 11:** Attended Symposium — learned about 2nd Price Auction (Vickrey Auction) in Economics/Game Theory connection.
 ## Current Focus 🎯
 - Language: Python (freeCodeCamp)
 
