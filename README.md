@@ -26,6 +26,9 @@ Learning web development | Frontend projects | Responsive Web Design certified
 - **April 9:** Dictionary and Sets theory learn.
 - **April 10:**Build a Medical data validation workshop start to workout.
 -  **April 11:** Attended Symposium — learned about 2nd Price Auction (Vickrey Auction) in Economics/Game Theory connection.
+  - **April 12:** Started CS50P - 
+Python only focus. Watched Week 0 
+Functions & Variables lecture.
 ## Current Focus 🎯
 - Language: Python (freeCodeCamp)
 
